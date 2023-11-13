@@ -1,0 +1,72 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.logout-container {
+    text-align: center;
+    background-color: hsl(0, 0%, 10%);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: inherit;
+  	font-size: inherit;
+  	cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none; /* added */
+    color: white; /* added */
+}
+
+.yes-button {
+    font-weight: 500;
+  padding: 12px 22px;
+  background-color: rgb(220, 35, 35);
+  color: white;
+  border-radius: 10px;
+  border: 2px solid rgb(220, 35, 35);
+  transition: 0.2s;
+}
+
+.no-button {
+    font-weight: 500;
+  padding: 12px 22px;
+  background-color: rgb(220, 35, 35);
+  color: white;
+  border-radius: 10px;
+  border: 2px solid rgb(220, 35, 35);
+  transition: 0.2s;
+}
+
+.yes-button:hover,
+.no-button:hover {
+   background-color: #cecccc;
+  color: white;
+  border:  #cecccc ;
+}
