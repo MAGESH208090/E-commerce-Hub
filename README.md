@@ -22,7 +22,6 @@ Technologies Used:
 
 Core Java
 SQL
-Git/GitHub
 JSP and Servlets
 Apache Tomcat
 JDBC
