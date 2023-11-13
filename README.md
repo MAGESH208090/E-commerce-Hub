@@ -1,7 +1,14 @@
 # E-commerce-Hub
 
+
+E-Commerce Hub
+E-Commerce Hub is a full-stack web application developed to showcase a responsive e-commerce platform with secure user authentication and dynamic product management.
+
+Overview
+E-Commerce Hub is a responsive web application built with Core Java, SQL, JSP, Servlets, Apache Tomcat, JDBC, HTML, CSS, and bcrypt for secure user authentication. The project aims to demonstrate a scalable and secure e-commerce platform with dynamic product displays and user-friendly functionalities.
+
 Description:
-E-Commerce Hub is a responsive web application developed using Core Java, SQL, Git/GitHub, JSP, Servlets, Apache Tomcat, JDBC, HTML, CSS, Maven, and bcrypt for secure user authentication. This full-stack project includes dynamic product display on the home page, a secure login/signup system, and a service page allowing authenticated users to add products to the SQL database.
+E-Commerce Hub is a responsive web application developed using Core Java, SQL, Git/GitHub, JSP, Servlets, Apache Tomcat, JDBC, HTML, CSS, and bcrypt for secure user authentication. This full-stack project includes dynamic product display on the home page, a secure login/signup system, and a service page allowing authenticated users to add products to the SQL database.
 
 
 Responsive website structure:
